@@ -4,3 +4,16 @@
 
 
 [Deploy Link](https://kornull-angular.netlify.app)
+
+## Stack:
+
+- Angular 16
+- RxJS
+- NgRx
+- Typescript
+- ESLint
+- SCSS
+- Jest
+- REST API
+- Angular Material
+  
